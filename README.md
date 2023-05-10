@@ -13,7 +13,7 @@
       <br>
     CSS
       <br>
-      Responsive
+    Responsive
       <br>
  <h2>Seen by Computer:</h2>
       <br>
@@ -22,4 +22,4 @@
  <h2>Seen by Mobile:</h2>
        <br>
        <br>
-    <img src="">
+    <img src="https://github.com/BrunoFelipeGonc/DevClub-Responsive-Project/blob/master/Mobile%20-%20we-care.PNG?raw=true">
