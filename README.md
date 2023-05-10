@@ -18,7 +18,7 @@
  <h2>Seen by Computer:</h2>
       <br>
       <br>
-   <img src="">
+   <img src="https://github.com/BrunoFelipeGonc/DevClub-Responsive-Project/blob/master/Computer%20-%20we-care.PNG?raw=true">
  <h2>Seen by Mobile:</h2>
        <br>
        <br>
